@@ -4,3 +4,5 @@
 *.pkl
 *.pdf
 *.env
+*.json
+*.txt
