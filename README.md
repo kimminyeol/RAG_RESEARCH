@@ -79,6 +79,11 @@ Advanced_RAG/
 | 18 | 반복 검색        | Retrieval with Feedback Loop                  | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/18_***_retrieval_with_feedback_loop.ipynb) |
 | 19 | 설명 가능성      | Explainable Retrieval                         | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/19_explainable_retrieval.ipynb)            |
 | 20 | 적응형 검색      | Adaptive Retrieval                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/20_adaptive_retrieval.ipynb)               |
+| 21 | 동적 수정      | CRAG                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/22_***_crag.ipynb)               |
+| 22 | 계층적 검색      | RAPTOR                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/23_raptor.ipynb)               |
+| 23 | graph 검색      | Graph Retrieval                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/24_graph_rag.ipynb)               |
+| 24 | graph 검색(nano)     | Graph Retrieval                               | [링크](https://github.com/kimminyeol/https://github.com/kimminyeol/torch_repository/tree/main/nano_graphrag)             |
+| 24 | self-rag     | Self-RAG                               | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/21_self_rag_langraph.ipynb)               |
 
 
 
