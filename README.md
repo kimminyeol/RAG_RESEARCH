@@ -34,6 +34,43 @@ Advanced_RAG/
 
 
 ---
+Advanced_RAG/
+│
+├── RAG_deepai/
+│ └── 상용 시스템 기반 고급 기법 실험 공간
+│
+├── RAG_tech/
+│ └── 다양한 Advanced RAG 기법 정리 및 실험 공간
+│
+├── data/
+│ └── 실험용 데이터 저장소
+│
+├── evaluation/
+│ └── 평가 및 성능 분석 스크립트
+│
+├── images/
+│ └── 결과 시각화 및 이미지 자료
+│
+├── tests/
+│ └── 테스트 코드 및 검증 스크립트
+│
+├── vector_stores/
+│ └── 벡터 저장소 및 임베딩 파일 관리
+│
+├── helper_functions.py
+│ └── 공통 유틸리티 함수 모음
+│
+├── requirements.txt
+│ └── 실험 환경 구축을 위한 패키지 목록
+│
+└── RAG_Rec/
+├── data/
+│ └── 추천 실험용 데이터
+├── Graph_Embedding_RGCN.ipynb
+│ └── 그래프 기반 임베딩 실험
+├── RAG_ex_with_raptor.ipynb
+│ └── RAPTOR 기반 검색 실험
+└── ... 기타 추천 실험 노트북들
 
 ## 🚩 주요 학습 내용
 
@@ -82,7 +119,7 @@ Advanced_RAG/
 | 21 | 동적 수정      | CRAG                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/22_***_crag.ipynb)               |
 | 22 | 계층적 검색      | RAPTOR                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/23_raptor.ipynb)               |
 | 23 | graph 검색      | Graph Retrieval                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/24_graph_rag.ipynb)               |
-| 24 | graph 검색(nano)     | Graph Retrieval                               | [링크](https://github.com/kimminyeol/https://github.com/kimminyeol/torch_repository/tree/main/nano_graphrag)             |
+| 24 | graph 검색(nano)     | Graph Retrieval                               | [링크](https://github.com/kimminyeol/torch_repository/tree/main/nano_graphrag)             |
 | 24 | self-rag     | Self-RAG                               | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/21_self_rag_langraph.ipynb)               |
 
 
