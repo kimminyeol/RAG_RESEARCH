@@ -14,63 +14,19 @@ _RAG 기반 추천 시스템을 심화 학습하고 실험한 공간입니다._
 ---
 
 ## 📂 폴더 구조
-Advanced_RAG/
-│
-├── RAG_deepai/        
-├── RAG_tech/          # 다양한 Advanced_RAG skill 저장소
-├── data/              
-├── evaluation/        
-├── images/            
-├── tests/             
-├── vector_stores/     
-├── helper_functions.py
-├── requirements.txt   
-│
-└── RAG_Rec/           # RAG-based Recommender System 실험공간-> 정리중.
-    ├── data/              
-    ├── Graph_Embedding_RGCN.ipynb      # Graph-based embedding exploration
-    ├── RAG_ex_with_raptor.ipynb        # RAPTOR-based retrieval experiments
-    ----
+```bash
+📂 RAG_RESEARCH
+│── 📂 Advanced_RAG_with_langgraph/               # langchain활용 
+│── 📂 Advanced_RAG/         # 이미지 생성 성능 향상을 위한 실험 파일 모음
+    │── RAG_tech/  # 다양한 RAG_advanced 기법들 내용
+│── 📂 RAG_REC/          # 검색 프로세스를 반영한 prototype
+    │── RAG_ex_with_raptor.ipynb/ #RAG추천시스템 실험
+│── 📂 Readme_images/      # README.md 작성을 위한 image
+
+
 
 
 ---
-Advanced_RAG/
-│
-├── RAG_deepai/
-│ └── 상용 시스템 기반 고급 기법 실험 공간
-│
-├── RAG_tech/
-│ └── 다양한 Advanced RAG 기법 정리 및 실험 공간
-│
-├── data/
-│ └── 실험용 데이터 저장소
-│
-├── evaluation/
-│ └── 평가 및 성능 분석 스크립트
-│
-├── images/
-│ └── 결과 시각화 및 이미지 자료
-│
-├── tests/
-│ └── 테스트 코드 및 검증 스크립트
-│
-├── vector_stores/
-│ └── 벡터 저장소 및 임베딩 파일 관리
-│
-├── helper_functions.py
-│ └── 공통 유틸리티 함수 모음
-│
-├── requirements.txt
-│ └── 실험 환경 구축을 위한 패키지 목록
-│
-└── RAG_Rec/
-├── data/
-│ └── 추천 실험용 데이터
-├── Graph_Embedding_RGCN.ipynb
-│ └── 그래프 기반 임베딩 실험
-├── RAG_ex_with_raptor.ipynb
-│ └── RAPTOR 기반 검색 실험
-└── ... 기타 추천 실험 노트북들
 
 ## 🚩 주요 학습 내용
 
@@ -91,8 +47,6 @@ Advanced_RAG/
 ## 📌 Advanced RAG Techniques Overview
 
 아래는 제가 학습하고 참고한 고급 RAG 기법들을 정리한 표입니다.
-
-## 📌 Advanced RAG Techniques Overview
 
 | #  | 카테고리           | 기법명                                         | 링크                                                                                                                         |
 |----|--------------------|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
