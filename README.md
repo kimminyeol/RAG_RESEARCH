@@ -10,20 +10,6 @@ _RAG 기반 추천 시스템을 심화 학습하고 실험한 공간입니다._
 
 ---
 
-## 📂 폴더 구조
-```bash
-📂 RAG_RESEARCH
-│── 📂 Advanced_RAG_with_langgraph/               # langchain활용 
-│── 📂 Advanced_RAG/         # 이미지 생성 성능 향상을 위한 실험 파일 모음
-    │── RAG_tech/  # 다양한 RAG_advanced 기법들 내용
-│── 📂 RAG_REC/          # 검색 프로세스를 반영한 prototype
-    │── RAG_ex_with_raptor.ipynb/ #RAG추천시스템 실험
-│── 📂 Readme_images/      # README.md 작성을 위한 image
-```
-
-
-
----
 
 ## 🚩 주요 학습 내용
 
@@ -72,6 +58,20 @@ _RAG 기반 추천 시스템을 심화 학습하고 실험한 공간입니다._
 | 23 | graph 검색      | Graph Retrieval                            | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/24_graph_rag.ipynb)               |
 | 24 | graph 검색(nano)     | Graph Retrieval                               | [링크](https://github.com/kimminyeol/torch_repository/tree/main/nano_graphrag)             |
 | 24 | self-rag     | Self-RAG                               | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/21_self_rag_langraph.ipynb)               |
+
+---
+
+## 📂 폴더 구조
+```bash
+📂 RAG_RESEARCH
+│── 📂 Advanced_RAG_with_langgraph/               # langchain활용 
+│── 📂 Advanced_RAG/         # 이미지 생성 성능 향상을 위한 실험 파일 모음
+    │── RAG_tech/  # 다양한 RAG_advanced 기법들 내용
+│── 📂 RAG_REC/          # 검색 프로세스를 반영한 prototype
+    │── RAG_ex_with_raptor.ipynb/ #RAG추천시스템 실험
+│── 📂 Readme_images/      # README.md 작성을 위한 image
+```
+
 
 
 
