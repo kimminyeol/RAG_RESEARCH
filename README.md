@@ -8,9 +8,6 @@ _RAG 기반 추천 시스템을 심화 학습하고 실험한 공간입니다._
 이 레포지토리는 **Retrieval-Augmented Generation (RAG)** 기반 추천 시스템을 연구하며 구축한 **개인 학습 및 실험 공간**입니다.  
 기본적인 RAG 기술을 넘어, **그래프 기반 강화**, **사용자 선호 분석**, **실험 기반 최적화**를 목표로 다양한 시도를 진행했습니다.
 
-특히, [NirDiamant/RAG_TECHNIQUES](https://github.com/NirDiamant/RAG_TECHNIQUES)와 같은 공개 RAG 자료를 참고하며  
-**실제 추천 시스템에 적용 가능한 고급 RAG 파이프라인**을 구현하는 것을 목표로 했습니다.
-
 ---
 
 ## 📂 폴더 구조
@@ -22,7 +19,7 @@ _RAG 기반 추천 시스템을 심화 학습하고 실험한 공간입니다._
 │── 📂 RAG_REC/          # 검색 프로세스를 반영한 prototype
     │── RAG_ex_with_raptor.ipynb/ #RAG추천시스템 실험
 │── 📂 Readme_images/      # README.md 작성을 위한 image
-
+```
 
 
 
