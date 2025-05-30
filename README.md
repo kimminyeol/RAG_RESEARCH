@@ -36,9 +36,9 @@ _RAG 기반 추천 시스템을 심화 학습하고 실험한 공간입니다._
 | 1  | 기초 🌱            | Simple RAG                                    | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/01_simple_rag.ipynb)                       |
 | 2  | 기초 🌱            | Simple RAG with CSV                           | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/02_simple_csv_rag.ipynb)                   |
 | 3  | 기초 🌱            | Reliable RAG                                  | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/03_reliable_rag.ipynb)                     |
-| 4  | 쿵크 사이즈 최적화 📏 | Choose Chunk Size                              | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/04_choose_chunk_size.ipynb)                |
-| 5  | 문장 단위 청킹 ⛓️  | Proposition Chunking                          | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/05_proposition_chunking.ipynb)             |
-| 6  | 쿼리 확장 🔍       | Query Transformations                         | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/06_query_transformations.ipynb)            |
+| 4  | 청크 사이즈 최적화  | Choose Chunk Size                              | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/04_choose_chunk_size.ipynb)                |
+| 5  | 문장 단위 청킹   | Proposition Chunking                          | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/05_proposition_chunking.ipynb)             |
+| 6  | 쿼리 확장       | Query Transformations                         | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/06_query_transformations.ipynb)            |
 | 7  | 가설 쿼리 생성    | HyDE (Hypothetical Document Embedding)        | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/07_HyDe_Hypothetical_Document_Embedding.ipynb) |
 | 8  | 문맥 강화        | Contextual Chunk Headers                      | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/08_contextual_chunk_headers.ipynb)         |
 | 9  | 문맥 강화        | Relevant Segment Extraction                   | [링크](https://github.com/kimminyeol/RAG_RESEARCH/blob/main/Advanced_RAG/RAG_tech/09_relevant_segment_extraction.ipynb)      |
